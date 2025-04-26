@@ -27,12 +27,14 @@
     margin-bottom: 20px;
     font-size: 18px;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 
 .container ul li:hover{
-    background-color: #553f9a;
-    color: white;
-    transition: background-color 0.3s;
+    
+    transform: scale(1.03);
+
+    
 }
 
 .container button{
@@ -48,9 +50,9 @@
 }
 
 .container button:hover{
-    background-color: #000000;
-    transform: scale(1.05);
-    transition: all 0.3s ease;
+    background-color: #452c91;
+    
+    
 }
 
 .container .index{
