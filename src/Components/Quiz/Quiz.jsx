@@ -110,6 +110,8 @@ const Quiz = () => {
       setScore(0);
       setLock(false);
       setResult(false);
+      setIncorrect(0);
+      setUserAnswers(0);
     }
 
   return (
