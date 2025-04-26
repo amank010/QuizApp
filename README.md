@@ -1,8 +1,19 @@
 # Quiz App
 
-This is Quiz App made with React JS
+QuizApp is an interactive web-based quiz application built with React.
+It allows users to test their knowledge of Internet of Things topics by answering multiple-choice questions.
 
+## Interactive Quiz:
+-Answer multiple-choice questions and get immediate feedback.
 
-## Expanding the ESLint configuration
+## Tracking
+-The app tracks both correct and incorrect answers.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Responsive Design
+-The application is fully responsive and works well across different screen sizes
+
+## Navigation
+-Navigate between questions with "Next" and "Previous" buttons.
+
+## Reset
+-The ability to reset the quiz and start again.
