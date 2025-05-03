@@ -1,5 +1,7 @@
 # Quiz App
 
+Deployed - https://quiz-app-two-iota-54.vercel.app
+
 QuizApp is an interactive web-based quiz application built with React.
 It allows users to test their knowledge of Internet of Things topics by answering multiple-choice questions.
 
